@@ -13,7 +13,7 @@ namespace MAUIGuessNumber
 
 			TargetNumber = GenerateRandomNumber();
 			GuessLog = new ObservableCollection<Result>();
-			lvResults.ItemsSource = GuessLog;
+			lvResults.ItemsSource = GuessLog; 
 		}
 
 		private int GenerateRandomNumber()
