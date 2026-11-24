@@ -2,7 +2,7 @@ using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 using System;
 
-namespace MAUIGuessNumber
+namespace MAUI_Controls_GuessNumber
 {
 	internal class Program : MauiApplication
 	{

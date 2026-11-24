@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace MAUIGuessNumber
+namespace MAUI_Controls_GuessNumber
 {
 	public class Program
 	{

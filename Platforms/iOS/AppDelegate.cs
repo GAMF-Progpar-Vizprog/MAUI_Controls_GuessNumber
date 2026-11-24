@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MAUIGuessNumber
+namespace MAUI_Controls_GuessNumber
 {
 	[Register("AppDelegate")]
 	public class AppDelegate : MauiUIApplicationDelegate

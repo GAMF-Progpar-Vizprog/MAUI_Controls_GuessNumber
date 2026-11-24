@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace MAUIGuessNumber
+namespace MAUI_Controls_GuessNumber
 {
 	[Application]
 	public class MainApplication : MauiApplication

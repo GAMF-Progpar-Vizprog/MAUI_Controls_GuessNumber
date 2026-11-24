@@ -1,4 +1,4 @@
-﻿namespace MAUIGuessNumber
+﻿namespace MAUI_Controls_GuessNumber
 {
 	public partial class App : Application
 	{
