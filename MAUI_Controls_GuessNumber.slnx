@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MAUI_Controls_GuessNumber.csproj">
+    <Deploy />
+  </Project>
+</Solution>
